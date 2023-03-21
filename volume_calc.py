@@ -2,6 +2,6 @@ length = float(input("가로:"))
 width = float(input("세로:"))
 high = float(input("높이:"))
 
-volume = length + width + high
+volume = length * width * high
 
 print("박스의 부피는:", volume,"입니다.")
