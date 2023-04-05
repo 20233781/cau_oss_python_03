@@ -9,6 +9,7 @@ print("박스의 부피는:", volume,"입니다.")
 
 # 조건에 맞게 사용자의 박스 요금 계산 
 
+
 total_length = length + width + height
 
 if (total_length <= 80):
